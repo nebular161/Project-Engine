@@ -1,0 +1,9 @@
+#VS Code
+export/
+.vscode/
+
+#Github
+.github/
+
+#HaxeLib
+/.haxelib
