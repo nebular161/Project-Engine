@@ -1,0 +1,659 @@
+﻿{"frames": {
+
+"GF Cheer0000":
+{
+	"frame": {"x":0,"y":0,"w":699,"h":657},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0001":
+{
+	"frame": {"x":699,"y":0,"w":703,"h":657},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0002":
+{
+	"frame": {"x":1402,"y":0,"w":703,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0003":
+{
+	"frame": {"x":2105,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0004":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0005":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0006":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0007":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0008":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0009":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0010":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0011":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0012":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0013":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0014":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0015":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0016":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0017":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0018":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0019":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Cheer0020":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":703,"h":657},
+	"sourceSize": {"w":703,"h":657}
+},
+"GF Dancing Beat0000":
+{
+	"frame": {"x":0,"y":657,"w":699,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":14,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0001":
+{
+	"frame": {"x":699,"y":657,"w":703,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0002":
+{
+	"frame": {"x":1402,"y":657,"w":703,"h":632},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0003":
+{
+	"frame": {"x":2105,"y":657,"w":699,"h":632},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0004":
+{
+	"frame": {"x":2804,"y":657,"w":699,"h":635},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0005":
+{
+	"frame": {"x":0,"y":1292,"w":699,"h":635},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0006":
+{
+	"frame": {"x":699,"y":1292,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0007":
+{
+	"frame": {"x":1398,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0008":
+{
+	"frame": {"x":1398,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0009":
+{
+	"frame": {"x":1398,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0010":
+{
+	"frame": {"x":2097,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0011":
+{
+	"frame": {"x":2097,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0012":
+{
+	"frame": {"x":2097,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0013":
+{
+	"frame": {"x":2796,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0014":
+{
+	"frame": {"x":2796,"y":1292,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0015":
+{
+	"frame": {"x":0,"y":1940,"w":699,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0016":
+{
+	"frame": {"x":699,"y":1940,"w":703,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0017":
+{
+	"frame": {"x":1402,"y":1940,"w":703,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0018":
+{
+	"frame": {"x":2105,"y":1940,"w":699,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0019":
+{
+	"frame": {"x":2804,"y":1940,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0020":
+{
+	"frame": {"x":0,"y":2577,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0021":
+{
+	"frame": {"x":699,"y":2577,"w":699,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0022":
+{
+	"frame": {"x":1398,"y":2577,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0023":
+{
+	"frame": {"x":1398,"y":2577,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0024":
+{
+	"frame": {"x":1398,"y":2577,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0025":
+{
+	"frame": {"x":2097,"y":2577,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0026":
+{
+	"frame": {"x":2097,"y":2577,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0027":
+{
+	"frame": {"x":2097,"y":2577,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0028":
+{
+	"frame": {"x":2796,"y":2577,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0029":
+{
+	"frame": {"x":2796,"y":2577,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat Hair blowing0000":
+{
+	"frame": {"x":0,"y":3220,"w":701,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0001":
+{
+	"frame": {"x":701,"y":3220,"w":703,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":13,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0002":
+{
+	"frame": {"x":1404,"y":3220,"w":748,"h":628},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0003":
+{
+	"frame": {"x":2152,"y":3220,"w":699,"h":627},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":22,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0004":
+{
+	"frame": {"x":2851,"y":3220,"w":701,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":11,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0005":
+{
+	"frame": {"x":0,"y":3858,"w":701,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":11,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0006":
+{
+	"frame": {"x":701,"y":3858,"w":739,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":13,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0007":
+{
+	"frame": {"x":1440,"y":3858,"w":699,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":2,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0008":
+{
+	"frame": {"x":2139,"y":3858,"w":728,"h":639},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":10,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0009":
+{
+	"frame": {"x":2867,"y":3858,"w":699,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":11,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0010":
+{
+	"frame": {"x":0,"y":4505,"w":699,"h":649},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0011":
+{
+	"frame": {"x":0,"y":4505,"w":699,"h":649},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0012":
+{
+	"frame": {"x":699,"y":4505,"w":726,"h":641},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":8,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0013":
+{
+	"frame": {"x":1425,"y":4505,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":1,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0014":
+{
+	"frame": {"x":2124,"y":4505,"w":725,"h":640},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":9,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0015":
+{
+	"frame": {"x":2849,"y":4505,"w":699,"h":625},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":24,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0016":
+{
+	"frame": {"x":0,"y":5154,"w":703,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":15,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0017":
+{
+	"frame": {"x":703,"y":5154,"w":703,"h":631},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":18,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0018":
+{
+	"frame": {"x":1406,"y":5154,"w":709,"h":623},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0019":
+{
+	"frame": {"x":2115,"y":5154,"w":699,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":15,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0020":
+{
+	"frame": {"x":2814,"y":5154,"w":710,"h":626},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":23,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0021":
+{
+	"frame": {"x":0,"y":5788,"w":699,"h":630},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":19,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0022":
+{
+	"frame": {"x":699,"y":5788,"w":699,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":3,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0023":
+{
+	"frame": {"x":699,"y":5788,"w":699,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":3,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0024":
+{
+	"frame": {"x":1398,"y":5788,"w":715,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0025":
+{
+	"frame": {"x":2113,"y":5788,"w":699,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":2,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0026":
+{
+	"frame": {"x":2812,"y":5788,"w":716,"h":639},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":10,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0027":
+{
+	"frame": {"x":0,"y":6435,"w":699,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":11,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0028":
+{
+	"frame": {"x":699,"y":6435,"w":699,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":3,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+},
+"GF Dancing Beat Hair blowing0029":
+{
+	"frame": {"x":699,"y":6435,"w":699,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":3,"w":748,"h":649},
+	"sourceSize": {"w":748,"h":649}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "Girlfriend.png",
+	"format": "RGB8",
+	"size": {"w":4096,"h":8192},
+	"scale": "1"
+}
+}

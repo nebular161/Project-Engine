@@ -1,0 +1,1003 @@
+﻿{"frames": {
+
+"Dad Sing Note DOWN0000":
+{
+	"frame": {"x":0,"y":0,"w":470,"h":730},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0001":
+{
+	"frame": {"x":0,"y":0,"w":470,"h":730},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0002":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0003":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0004":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0005":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0006":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0007":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0008":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0009":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0010":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0011":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0012":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0013":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0014":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note DOWN0015":
+{
+	"frame": {"x":470,"y":0,"w":463,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":470,"h":735},
+	"sourceSize": {"w":470,"h":735}
+},
+"Dad Sing Note LEFT0000":
+{
+	"frame": {"x":933,"y":0,"w":371,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0001":
+{
+	"frame": {"x":933,"y":0,"w":371,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0002":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0003":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0004":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0005":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0006":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0007":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0008":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0009":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0010":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0011":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0012":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0013":
+{
+	"frame": {"x":0,"y":777,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0014":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing Note LEFT0015":
+{
+	"frame": {"x":1304,"y":0,"w":383,"h":777},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":777},
+	"sourceSize": {"w":383,"h":777}
+},
+"Dad Sing note UP0000":
+{
+	"frame": {"x":383,"y":777,"w":408,"h":818},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0001":
+{
+	"frame": {"x":383,"y":777,"w":408,"h":818},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0002":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0003":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0004":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0005":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0006":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0007":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0008":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0009":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0010":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0011":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0012":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0013":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0014":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0015":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0016":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0017":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0018":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0019":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0020":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0021":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0022":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0023":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0024":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0025":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0026":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0027":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0028":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0029":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0030":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0031":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0032":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0033":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0034":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0035":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0036":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0037":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0038":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0039":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0040":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0041":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0042":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0043":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0044":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0045":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0046":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0047":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0048":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0049":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0050":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0051":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0052":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0053":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0054":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0055":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0056":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0057":
+{
+	"frame": {"x":1199,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0058":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad Sing note UP0059":
+{
+	"frame": {"x":791,"y":777,"w":408,"h":809},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":409,"h":818},
+	"sourceSize": {"w":409,"h":818}
+},
+"Dad idle dance0000":
+{
+	"frame": {"x":1607,"y":777,"w":419,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0001":
+{
+	"frame": {"x":1607,"y":777,"w":419,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0002":
+{
+	"frame": {"x":0,"y":1595,"w":429,"h":759},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0003":
+{
+	"frame": {"x":0,"y":1595,"w":429,"h":759},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0004":
+{
+	"frame": {"x":429,"y":1595,"w":424,"h":757},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0005":
+{
+	"frame": {"x":429,"y":1595,"w":424,"h":757},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0006":
+{
+	"frame": {"x":853,"y":1595,"w":423,"h":759},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0007":
+{
+	"frame": {"x":853,"y":1595,"w":423,"h":759},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0008":
+{
+	"frame": {"x":1276,"y":1595,"w":419,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0009":
+{
+	"frame": {"x":1276,"y":1595,"w":419,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0010":
+{
+	"frame": {"x":0,"y":2361,"w":419,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0011":
+{
+	"frame": {"x":0,"y":2361,"w":419,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"Dad idle dance0012":
+{
+	"frame": {"x":1607,"y":777,"w":419,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":429,"h":767},
+	"sourceSize": {"w":429,"h":767}
+},
+"dad sing note right0000":
+{
+	"frame": {"x":419,"y":2361,"w":465,"h":792},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0001":
+{
+	"frame": {"x":419,"y":2361,"w":465,"h":792},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0002":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0003":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0004":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0005":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0006":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0007":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0008":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0009":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0010":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0011":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0012":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0013":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0014":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0015":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0016":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0017":
+{
+	"frame": {"x":1336,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+},
+"dad sing note right0018":
+{
+	"frame": {"x":884,"y":2361,"w":452,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":465,"h":793},
+	"sourceSize": {"w":465,"h":793}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "Daddy_Dearest.png",
+	"format": "RGB8",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}
