@@ -1,0 +1,1 @@
+This is where you can create your own mods using this folder! As of right now, the mods system is currently under progress (including the entire game lmao), meaning the mods folder is just useless for now until further notice.

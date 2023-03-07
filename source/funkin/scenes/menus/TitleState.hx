@@ -33,4 +33,11 @@ import openfl.net.NetStream;
 
 using StringTools;
 
-class TitleState extends MusicBeatState {}
+class TitleState extends MusicBeatState
+{
+	/* Variables */
+	var logoBl:FlxSprite;
+	var gfDance:FlxSprite;
+	var titleText:FlxSprite;
+	var blackScreen:FlxSprite;
+}

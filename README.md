@@ -5,7 +5,7 @@ A Friday Night Funkin' test engine made from scratch. (The read me is just an ed
 - Organized assets and source code
 - Hscript support
 - Higher framerate
-- Mod Support
+- Mod support
 - JSON & XML support
 - 3D support
 # Building

@@ -8,6 +8,7 @@ import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.system.FlxSound;
 import flixel.text.FlxText;
 import funkin.game.objects.StrumNote;
+import funkin.system.MusicBeatState;
 import haxe.Json;
 import lime.utils.Assets;
 
