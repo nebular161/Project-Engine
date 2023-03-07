@@ -1,0 +1,251 @@
+﻿{"frames": {
+
+"GF Dancing Beat0000":
+{
+	"frame": {"x":0,"y":0,"w":699,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":14,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0001":
+{
+	"frame": {"x":699,"y":0,"w":703,"h":634},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0002":
+{
+	"frame": {"x":1402,"y":0,"w":703,"h":632},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0003":
+{
+	"frame": {"x":2105,"y":0,"w":699,"h":632},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0004":
+{
+	"frame": {"x":2804,"y":0,"w":699,"h":635},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0005":
+{
+	"frame": {"x":0,"y":635,"w":699,"h":635},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0006":
+{
+	"frame": {"x":699,"y":635,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0007":
+{
+	"frame": {"x":1398,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0008":
+{
+	"frame": {"x":1398,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0009":
+{
+	"frame": {"x":1398,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0010":
+{
+	"frame": {"x":2097,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0011":
+{
+	"frame": {"x":2097,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0012":
+{
+	"frame": {"x":2097,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0013":
+{
+	"frame": {"x":2796,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0014":
+{
+	"frame": {"x":2796,"y":635,"w":699,"h":648},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0015":
+{
+	"frame": {"x":0,"y":1283,"w":699,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0016":
+{
+	"frame": {"x":699,"y":1283,"w":703,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0017":
+{
+	"frame": {"x":1402,"y":1283,"w":703,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0018":
+{
+	"frame": {"x":2105,"y":1283,"w":699,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0019":
+{
+	"frame": {"x":2804,"y":1283,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0020":
+{
+	"frame": {"x":0,"y":1920,"w":699,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0021":
+{
+	"frame": {"x":699,"y":1920,"w":699,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0022":
+{
+	"frame": {"x":1398,"y":1920,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0023":
+{
+	"frame": {"x":1398,"y":1920,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0024":
+{
+	"frame": {"x":1398,"y":1920,"w":699,"h":643},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0025":
+{
+	"frame": {"x":2097,"y":1920,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0026":
+{
+	"frame": {"x":2097,"y":1920,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0027":
+{
+	"frame": {"x":2097,"y":1920,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0028":
+{
+	"frame": {"x":2796,"y":1920,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+},
+"GF Dancing Beat0029":
+{
+	"frame": {"x":2796,"y":1920,"w":699,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":703,"h":648},
+	"sourceSize": {"w":703,"h":648}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "gfDanceTitle.png",
+	"format": "RGB8",
+	"size": {"w":4096,"h":4096},
+	"scale": "1"
+}
+}

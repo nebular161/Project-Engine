@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"arrow left0000":
+{
+	"frame": {"x":0,"y":0,"w":48,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":85},
+	"sourceSize": {"w":48,"h":85}
+},
+"arrow push left0000":
+{
+	"frame": {"x":48,"y":0,"w":42,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":75},
+	"sourceSize": {"w":42,"h":75}
+},
+"arrow push right0000":
+{
+	"frame": {"x":90,"y":0,"w":41,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":74},
+	"sourceSize": {"w":41,"h":74}
+},
+"arrow right0000":
+{
+	"frame": {"x":131,"y":0,"w":47,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":85},
+	"sourceSize": {"w":47,"h":85}
+},
+"lock0000":
+{
+	"frame": {"x":178,"y":0,"w":67,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":93},
+	"sourceSize": {"w":67,"h":93}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "menu_assets.png",
+	"format": "RGB8",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}
