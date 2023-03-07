@@ -1,8 +1,15 @@
 package funkin.scenes;
 
 import flixel.FlxG;
+import flixel.FlxGame;
+import flixel.FlxSprite;
 import flixel.FlxState;
+import flixel.group.FlxGroup.FlxTypedGroup;
+import flixel.system.FlxSound;
+import flixel.text.FlxText;
 import funkin.game.objects.StrumNote;
+import haxe.Json;
+import lime.utils.Assets;
 
 class PlayState extends MusicBeatState
 {

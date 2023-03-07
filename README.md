@@ -5,10 +5,12 @@ A Friday Night Funkin' test engine made from scratch. (The read me is just an ed
 - Organized assets and source code
 - Hscript support
 - Higher framerate
-
+- Mod Support
+- JSON & XML support
+- 3D support
 # Building
 To get started, you need the following programs:
-- Haxe 4.2.5
+- Haxe
 - VS Community 2019
 - VS Code (Optional)
 

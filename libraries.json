@@ -6,17 +6,22 @@
             "version": null
         },
         {
-            "name": "flixel-nebulazone",
+            "name": "flixel",
             "type": "git",
-            "dir": "flixel",
             "ref": "master",
-            "url": "https://github.com/NebulaZone1/flixel.git"
+            "dir": "flixel",
+            "url": "https://github.com/HaxeFlixel/flixel.git"
         },
         {
-            "name": "flixel",
+            "name": "flixel-ui",
             "type": "haxelib",
             "version": null
         },  
+        {
+            "name": "flixel-tools",
+            "type": "haxelib",
+            "version": null
+        },                    
         {
             "name": "flixel-addons",
             "type": "haxelib",
