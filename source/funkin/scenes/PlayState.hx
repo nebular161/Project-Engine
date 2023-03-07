@@ -4,7 +4,7 @@ import flixel.FlxG;
 import flixel.FlxState;
 import funkin.game.objects.StrumNote;
 
-class PlayState extends FlxState
+class PlayState extends MusicBeatState
 {
 	override public function create()
 	{

@@ -1,1 +1,1 @@
-import funkin.system.Main;
+typedef Main = funkin.system.Main;
