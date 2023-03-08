@@ -110,7 +110,7 @@ class Paths
 	inline static public function font(key:String):String
 		return 'assets/fonts/$key';
 
-	inline static public function chart(song:String, diff:String) // unfinished
+	inline static public function chart(song:String, diff:String):String // unfinished
 
 	static public function sound(key:String, ?cache:Bool = true):Sound
 		return returnSound('sounds/$key', cache);
