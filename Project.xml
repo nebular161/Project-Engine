@@ -48,6 +48,24 @@
 	</section>
 	
 	<assets path="assets/music/songs"    library="songs"    exclude="*.ogg" if="web"/>
+
+	<assets path='mods' rename='mods' embed='false'/>
+
+	<!-- _________________________________ Misc _______________________________ -->
+
+	<!-- Comment this out to disable Discord RPC !-->
+	<define name="DISCORD_RPC" unless="web || hl || neko"/>
+
+	<!-- Comment this out to disable GitHub API integration !-->
+	<define name="GITHUB_API" unless="web || hl"/>
+
+	<!-- Comment this out to disable mods folder !-->
+	<haxedef name="MOD_SUPPORT" unless="web"/>
+
+	<!-- Comment this out to disable build number on FPS -->
+	<define name="SHOW_BUILD_ON_FPS" />
+
+	<haxedef name="DISCORD_RPC" if="DISCORD_RPC" />
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel" />
