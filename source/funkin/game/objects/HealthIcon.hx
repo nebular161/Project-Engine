@@ -2,4 +2,7 @@ package funkin.game.objects;
 
 import funkin.system.Paths;
 
-class HealthIcon {}
+class HealthIcon 
+{
+    
+}

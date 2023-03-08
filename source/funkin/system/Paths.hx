@@ -5,6 +5,7 @@ import flixel.graphics.FlxGraphic;
 import flixel.graphics.frames.FlxAtlasFrames;
 import openfl.media.Sound;
 import openfl.utils.Assets;
+import haxe.Json;
 
 using StringTools;
 
@@ -117,10 +118,15 @@ class Paths
 
 	inline static public function voices(song:String, ?cache:Bool = true):Sound
 		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Voices', cache);
+		#if MOD_SUPPORT
+		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Voices', cache);
+		#end
 
 	inline static public function inst(song:String, ?cache:Bool = true):Sound
 		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Inst', cache);
-
+		#if MOD_SUPPORT
+		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Inst', cache);
+		#end
 	inline static public function image(key:String, ?cache:Bool = true):FlxGraphic
 		return returnGraphic('images/$key', cache);
 
