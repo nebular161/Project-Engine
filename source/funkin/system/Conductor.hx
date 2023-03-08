@@ -56,7 +56,6 @@ class Conductor // using the funkin' conductor for now, so maybe this will be ch
 			totalSteps += deltaSteps;
 			totalPos += ((60 / curBPM) * 1000 / 4) * deltaSteps;
 		}
-		trace("new BPM map BUDDY " + bpmChangeMap);
 	}
 
 	public static function changeBPM(newBpm:Float)
