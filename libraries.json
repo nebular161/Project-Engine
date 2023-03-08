@@ -26,7 +26,14 @@
             "name": "flixel-addons",
             "type": "haxelib",
             "version": null
-        },                
+        },
+        {
+            "name": "polymod-joalor64",
+            "type": "git",
+            "dir": "polymod-joalor64",
+            "ref": "master",
+            "url": "https://www.github.com/Joalor64GH/polymod-joalor64"
+        },                 
         {
             "name": "format",
             "type": "haxelib",

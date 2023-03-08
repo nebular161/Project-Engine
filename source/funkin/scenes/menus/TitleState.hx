@@ -23,6 +23,7 @@ import flixel.util.FlxTimer;
 import funkin.system.FNFSprite;
 import funkin.system.MusicBeatState;
 import funkin.system.Paths;
+import funkin.core.ModCore;
 import lime.app.Application;
 import lime.ui.Window;
 import openfl.Assets;
@@ -82,6 +83,11 @@ class IntroLine
 
 class TitleState extends MusicBeatState
 {
+	Paths.clearStoredMemory();
+	Paths.clearUnusedMemory();
+
+	ModCore.reload();
+
 	public var skippedIntro:Bool = false;
 
 	static var initializedTransitions:Bool = false;
