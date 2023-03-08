@@ -1,0 +1,26 @@
+Model of how the chart should look like when using the engines chart editor.
+{
+    "song": test,
+    "chartVer": 1.0,
+    "notes":
+    {
+        this is where the note data comes to play
+        Here's an example:
+        (
+            "mustHitSection": false(true if it's the player),
+            "typeOfSection": 0,
+            "lengthOfSteps": 16,
+            "sectionNotes":
+            {
+                *insert note data*
+            }
+        )
+    }
+    "bpm": 100,
+    "sections": 0,
+    "needVoices": true,
+    "player1": bf,
+    "player2": bf-pixel,
+    "sectionLengths": [],
+    "speed": 1,
+}
