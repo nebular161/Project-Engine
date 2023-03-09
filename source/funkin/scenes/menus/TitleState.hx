@@ -36,6 +36,7 @@ import openfl.events.NetStatusEvent;
 import openfl.media.Video;
 import openfl.net.NetConnection;
 import openfl.net.NetStream;
+import funkin.ui.Alphabet;
 
 using StringTools;
 
