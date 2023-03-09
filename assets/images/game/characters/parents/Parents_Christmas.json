@@ -1,0 +1,3231 @@
+{
+  "frames": {
+    "Parent Right Note Dad0001": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 951,
+        "h": 746
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 16,
+        "w": 951,
+        "h": 746
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0001": {
+      "frame": {
+        "x": 951,
+        "y": 0,
+        "w": 951,
+        "h": 750
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 12,
+        "w": 951,
+        "h": 750
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0003": {
+      "frame": {
+        "x": 1902,
+        "y": 0,
+        "w": 850,
+        "h": 752
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 850,
+        "h": 752
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0004": {
+      "frame": {
+        "x": 2752,
+        "y": 0,
+        "w": 850,
+        "h": 752
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 850,
+        "h": 752
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0001": {
+      "frame": {
+        "x": 3602,
+        "y": 0,
+        "w": 845,
+        "h": 753
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 845,
+        "h": 753
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0002": {
+      "frame": {
+        "x": 4447,
+        "y": 0,
+        "w": 845,
+        "h": 753
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 845,
+        "h": 753
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0001": {
+      "frame": {
+        "x": 5292,
+        "y": 0,
+        "w": 845,
+        "h": 754
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 5,
+        "w": 845,
+        "h": 754
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0002": {
+      "frame": {
+        "x": 6137,
+        "y": 0,
+        "w": 845,
+        "h": 754
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 5,
+        "w": 845,
+        "h": 754
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0003": {
+      "frame": {
+        "x": 6982,
+        "y": 0,
+        "w": 850,
+        "h": 754
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 850,
+        "h": 754
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0004": {
+      "frame": {
+        "x": 7832,
+        "y": 0,
+        "w": 850,
+        "h": 754
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 850,
+        "h": 754
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0003": {
+      "frame": {
+        "x": 8682,
+        "y": 0,
+        "w": 876,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 22,
+        "w": 876,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0005": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0006": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0005": {
+      "frame": {
+        "x": 1700,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0006": {
+      "frame": {
+        "x": 2550,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0007": {
+      "frame": {
+        "x": 3400,
+        "y": 753,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0008": {
+      "frame": {
+        "x": 4250,
+        "y": 753,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0005": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0007": {
+      "frame": {
+        "x": 6053,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0005": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0007": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0003": {
+      "frame": {
+        "x": 8912,
+        "y": 759,
+        "w": 953,
+        "h": 762
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 953,
+        "h": 762
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0003": {
+      "frame": {
+        "x": 0,
+        "y": 1509,
+        "w": 953,
+        "h": 762
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 953,
+        "h": 762
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0005": {
+      "frame": {
+        "x": 953,
+        "y": 1511,
+        "w": 878,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 17,
+        "w": 878,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0001": {
+      "frame": {
+        "x": 1831,
+        "y": 1511,
+        "w": 874,
+        "h": 776
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 874,
+        "h": 776
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0007": {
+      "frame": {
+        "x": 2705,
+        "y": 1512,
+        "w": 866,
+        "h": 776
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 5,
+        "w": 866,
+        "h": 776
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0009": {
+      "frame": {
+        "x": 3571,
+        "y": 1512,
+        "w": 865,
+        "h": 780
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 1,
+        "w": 865,
+        "h": 780
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0011": {
+      "frame": {
+        "x": 4436,
+        "y": 1514,
+        "w": 865,
+        "h": 781
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 865,
+        "h": 781
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0013": {
+      "frame": {
+        "x": 5301,
+        "y": 1514,
+        "w": 865,
+        "h": 781
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 865,
+        "h": 781
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0003": {
+      "frame": {
+        "x": 6166,
+        "y": 1514,
+        "w": 796,
+        "h": 791
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 796,
+        "h": 791
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0004": {
+      "frame": {
+        "x": 6962,
+        "y": 1515,
+        "w": 796,
+        "h": 791
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 796,
+        "h": 791
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0003": {
+      "frame": {
+        "x": 7758,
+        "y": 1520,
+        "w": 796,
+        "h": 791
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 796,
+        "h": 791
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0004": {
+      "frame": {
+        "x": 8554,
+        "y": 1521,
+        "w": 796,
+        "h": 791
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 796,
+        "h": 791
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0005": {
+      "frame": {
+        "x": 0,
+        "y": 2271,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0006": {
+      "frame": {
+        "x": 796,
+        "y": 2275,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0007": {
+      "frame": {
+        "x": 1592,
+        "y": 2287,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0008": {
+      "frame": {
+        "x": 2388,
+        "y": 2288,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0001": {
+      "frame": {
+        "x": 3184,
+        "y": 2292,
+        "w": 785,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 785,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0002": {
+      "frame": {
+        "x": 3969,
+        "y": 2295,
+        "w": 785,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 785,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0005": {
+      "frame": {
+        "x": 4754,
+        "y": 2295,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0006": {
+      "frame": {
+        "x": 5550,
+        "y": 2305,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0007": {
+      "frame": {
+        "x": 6346,
+        "y": 2306,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0008": {
+      "frame": {
+        "x": 7142,
+        "y": 2311,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0001": {
+      "frame": {
+        "x": 7938,
+        "y": 2312,
+        "w": 785,
+        "h": 801
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 785,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0002": {
+      "frame": {
+        "x": 8723,
+        "y": 2312,
+        "w": 785,
+        "h": 801
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 785,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0001": {
+      "frame": {
+        "x": 0,
+        "y": 3071,
+        "w": 787,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 1,
+        "w": 787,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0003": {
+      "frame": {
+        "x": 787,
+        "y": 3075,
+        "w": 799,
+        "h": 804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 804
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0004": {
+      "frame": {
+        "x": 1586,
+        "y": 3087,
+        "w": 799,
+        "h": 804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 804
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0003": {
+      "frame": {
+        "x": 2385,
+        "y": 3088,
+        "w": 799,
+        "h": 804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 799,
+        "h": 804
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0004": {
+      "frame": {
+        "x": 3184,
+        "y": 3095,
+        "w": 799,
+        "h": 804
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 799,
+        "h": 804
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0002": {
+      "frame": {
+        "x": 3983,
+        "y": 3095,
+        "w": 787,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 1,
+        "w": 787,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0005": {
+      "frame": {
+        "x": 4770,
+        "y": 3105,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0006": {
+      "frame": {
+        "x": 5569,
+        "y": 3106,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0007": {
+      "frame": {
+        "x": 6368,
+        "y": 3111,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0008": {
+      "frame": {
+        "x": 7167,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0005": {
+      "frame": {
+        "x": 7966,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0006": {
+      "frame": {
+        "x": 8765,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0007": {
+      "frame": {
+        "x": 0,
+        "y": 3879,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0001": {
+      "frame": {
+        "x": 799,
+        "y": 3879,
+        "w": 787,
+        "h": 811
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 787,
+        "h": 811
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0008": {
+      "frame": {
+        "x": 1586,
+        "y": 3891,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0002": {
+      "frame": {
+        "x": 2385,
+        "y": 3892,
+        "w": 787,
+        "h": 811
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 787,
+        "h": 811
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0002": {
+      "frame": {
+        "x": 1831,
+        "y": 1511,
+        "w": 874,
+        "h": 776
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 874,
+        "h": 776
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0004": {
+      "frame": {
+        "x": 8682,
+        "y": 0,
+        "w": 876,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 22,
+        "w": 876,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0006": {
+      "frame": {
+        "x": 953,
+        "y": 1511,
+        "w": 878,
+        "h": 764
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 17,
+        "w": 878,
+        "h": 764
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0008": {
+      "frame": {
+        "x": 2705,
+        "y": 1512,
+        "w": 866,
+        "h": 776
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 5,
+        "w": 866,
+        "h": 776
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0010": {
+      "frame": {
+        "x": 3571,
+        "y": 1512,
+        "w": 865,
+        "h": 780
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 1,
+        "w": 865,
+        "h": 780
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0012": {
+      "frame": {
+        "x": 4436,
+        "y": 1514,
+        "w": 865,
+        "h": 781
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 865,
+        "h": 781
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Christmas Idle0014": {
+      "frame": {
+        "x": 5301,
+        "y": 1514,
+        "w": 865,
+        "h": 781
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 865,
+        "h": 781
+      },
+      "sourceSize": {
+        "w": 884,
+        "h": 781
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0008": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0009": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0012": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0013": {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0007": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0010": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0011": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0014": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Dad0015": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0009": {
+      "frame": {
+        "x": 1700,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0013": {
+      "frame": {
+        "x": 1700,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0010": {
+      "frame": {
+        "x": 2550,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0014": {
+      "frame": {
+        "x": 2550,
+        "y": 752,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0011": {
+      "frame": {
+        "x": 3400,
+        "y": 753,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0015": {
+      "frame": {
+        "x": 3400,
+        "y": 753,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Down Note Mom0012": {
+      "frame": {
+        "x": 4250,
+        "y": 753,
+        "w": 850,
+        "h": 759
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 850,
+        "h": 759
+      },
+      "sourceSize": {
+        "w": 853,
+        "h": 759
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0009": {
+      "frame": {
+        "x": 0,
+        "y": 2271,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0013": {
+      "frame": {
+        "x": 0,
+        "y": 2271,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0010": {
+      "frame": {
+        "x": 796,
+        "y": 2275,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0014": {
+      "frame": {
+        "x": 796,
+        "y": 2275,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0011": {
+      "frame": {
+        "x": 1592,
+        "y": 2287,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0015": {
+      "frame": {
+        "x": 1592,
+        "y": 2287,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0012": {
+      "frame": {
+        "x": 2388,
+        "y": 2288,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Dad0016": {
+      "frame": {
+        "x": 2388,
+        "y": 2288,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 801
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0009": {
+      "frame": {
+        "x": 4754,
+        "y": 2295,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0013": {
+      "frame": {
+        "x": 4754,
+        "y": 2295,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0010": {
+      "frame": {
+        "x": 5550,
+        "y": 2305,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0014": {
+      "frame": {
+        "x": 5550,
+        "y": 2305,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0011": {
+      "frame": {
+        "x": 6346,
+        "y": 2306,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0015": {
+      "frame": {
+        "x": 6346,
+        "y": 2306,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Left Note Mom0012": {
+      "frame": {
+        "x": 7142,
+        "y": 2311,
+        "w": 796,
+        "h": 800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 800
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0002": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 951,
+        "h": 746
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 16,
+        "w": 951,
+        "h": 746
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0004": {
+      "frame": {
+        "x": 8912,
+        "y": 759,
+        "w": 953,
+        "h": 762
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 953,
+        "h": 762
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0006": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0009": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0010": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0013": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0014": {
+      "frame": {
+        "x": 7006,
+        "y": 754,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0008": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0011": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0012": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0015": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Dad0016": {
+      "frame": {
+        "x": 7959,
+        "y": 759,
+        "w": 953,
+        "h": 761
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 953,
+        "h": 761
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0002": {
+      "frame": {
+        "x": 951,
+        "y": 0,
+        "w": 951,
+        "h": 750
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 12,
+        "w": 951,
+        "h": 750
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0004": {
+      "frame": {
+        "x": 0,
+        "y": 1509,
+        "w": 953,
+        "h": 762
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 953,
+        "h": 762
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0006": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0009": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0010": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0013": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0014": {
+      "frame": {
+        "x": 5100,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0008": {
+      "frame": {
+        "x": 6053,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0011": {
+      "frame": {
+        "x": 6053,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0012": {
+      "frame": {
+        "x": 6053,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Right Note Mom0015": {
+      "frame": {
+        "x": 6053,
+        "y": 754,
+        "w": 953,
+        "h": 760
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 953,
+        "h": 760
+      },
+      "sourceSize": {
+        "w": 959,
+        "h": 762
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0009": {
+      "frame": {
+        "x": 4770,
+        "y": 3105,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0013": {
+      "frame": {
+        "x": 4770,
+        "y": 3105,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0010": {
+      "frame": {
+        "x": 5569,
+        "y": 3106,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0014": {
+      "frame": {
+        "x": 5569,
+        "y": 3106,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0011": {
+      "frame": {
+        "x": 6368,
+        "y": 3111,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Dad0012": {
+      "frame": {
+        "x": 7167,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 808
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0009": {
+      "frame": {
+        "x": 7966,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0013": {
+      "frame": {
+        "x": 7966,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0010": {
+      "frame": {
+        "x": 8765,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0014": {
+      "frame": {
+        "x": 8765,
+        "y": 3113,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0011": {
+      "frame": {
+        "x": 0,
+        "y": 3879,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Parent Up Note Mom0012": {
+      "frame": {
+        "x": 1586,
+        "y": 3891,
+        "w": 799,
+        "h": 807
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 799,
+        "h": 807
+      },
+      "sourceSize": {
+        "w": 799,
+        "h": 811
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Parents_Christmas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 9865,
+      "h": 4703
+    },
+    "scale": 1
+  }
+}
