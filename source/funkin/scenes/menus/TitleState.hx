@@ -88,10 +88,10 @@ class TitleState extends MusicBeatState
 	static var initializedTransitions:Bool = false;
 
 	public var introLines:Map<Int, IntroLine> = [
-		1 => new IntroLine(ADD, ["swordcube"]),
+		1 => new IntroLine(ADD, ["NebulaZone"]),
 		3 => new IntroLine(ADD, ["presents"]),
-		4 => new IntroLine(SET, []), // this removes all text
-		5 => new IntroLine(ADD, ["You should go", "check out"]),
+		4 => new IntroLine(SET, []),
+		5 => new IntroLine(ADD, ["Check out"]),
 		7 => new IntroLine(ADD, ["Newgrounds"], (beat:Int, state:TitleState) ->
 		{
 			state.ngSpr.alpha = 1;
@@ -99,10 +99,10 @@ class TitleState extends MusicBeatState
 		8 => new IntroLine(SET, [], (beat:Int, state:TitleState) ->
 		{
 			state.ngSpr.visible = false;
-		}), // this removes all text & hides the newgrounds logo
+		}),
 		9 => new IntroLine(ADD, ["{introtext1}"]),
 		11 => new IntroLine(ADD, ["{introtext2}"]),
-		12 => new IntroLine(SET, []), // this removes all text
+		12 => new IntroLine(SET, []),
 		13 => new IntroLine(ADD, ["Friday"]),
 		14 => new IntroLine(ADD, ["Night"]),
 		15 => new IntroLine(ADD, ["Funkin"])
@@ -275,7 +275,7 @@ class TitleState extends MusicBeatState
 
 	public function parseIntroText()
 	{
-		var lines:Array<String> = Paths.txt("data/introText").split("\n");
+		var lines:Array<String> = Paths.txt("data/meta/introText").split("\n");
 
 		var finalList:Array<Array<String>> = [];
 		for (line in lines)

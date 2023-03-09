@@ -27,9 +27,7 @@
 
 	<!-- _____________________________ Path Settings ____________________________ -->
 
-	<set name="BUILD_DIR" value="export/debug" if="debug" />
-	<set name="BUILD_DIR" value="export/release" unless="debug" />
-	<set name="BUILD_DIR" value="export/32bit" if="32bit" />
+	<set name="BUILD_DIR" value="export" />
 
 	<source path="source" />
 
@@ -40,7 +38,7 @@
 
 	<assets path="mods" if="MOD_SUPPORT"/>
 
-	<!-- _________________________________ Misc _______________________________ -->
+	<!-- _________________________________ Defines _______________________________ -->
 
 	<!-- Comment this out to disable Discord RPC !-->
 	<define name="DISCORD_RPC" unless="web || hl || neko"/>

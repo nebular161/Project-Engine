@@ -110,7 +110,7 @@ class Paths
 	inline static public function font(key:String):String
 		return 'assets/fonts/$key';
 
-	inline static public function chart(song:String, diff:String):String // unfinished
+	//inline static public function chart(song:String, diff:String):String // unfinished
 
 	static public function sound(key:String, ?cache:Bool = true):Sound
 		return returnSound('sounds/$key', cache);
@@ -120,15 +120,10 @@ class Paths
 
 	inline static public function voices(song:String, ?cache:Bool = true):Sound
 		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Voices', cache);
-		#if MOD_SUPPORT
-		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Voices', cache);
-		#end
 
 	inline static public function inst(song:String, ?cache:Bool = true):Sound
 		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Inst', cache);
-		#if MOD_SUPPORT
-		return returnSound('music/songs/' + ${song.toLowerCase()} + '/Inst', cache);
-		#end
+	
 	inline static public function image(key:String, ?cache:Bool = true):FlxGraphic
 		return returnGraphic('images/$key', cache);
 
