@@ -1,4 +1,4 @@
-package ui;
+package funkin.ui;
 
 class Alphabet
 {
