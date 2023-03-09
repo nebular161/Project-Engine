@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"medals basic0000":
+{
+	"frame": {"x":0,"y":0,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals basic0001":
+{
+	"frame": {"x":0,"y":0,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals basic0002":
+{
+	"frame": {"x":0,"y":0,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals basic0003":
+{
+	"frame": {"x":0,"y":0,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals basic0004":
+{
+	"frame": {"x":0,"y":0,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals white0000":
+{
+	"frame": {"x":0,"y":183,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals white0001":
+{
+	"frame": {"x":0,"y":183,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals white0002":
+{
+	"frame": {"x":0,"y":183,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals white0003":
+{
+	"frame": {"x":0,"y":183,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+},
+"medals white0004":
+{
+	"frame": {"x":0,"y":183,"w":558,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":183},
+	"sourceSize": {"w":558,"h":183}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "medals.png",
+	"format": "RGB8",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

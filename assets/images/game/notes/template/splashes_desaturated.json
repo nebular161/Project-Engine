@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"note impact 1 default 0000":
+{
+	"frame": {"x":0,"y":0,"w":189,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":12,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+"note impact 1 default 0001":
+{
+	"frame": {"x":189,"y":0,"w":213,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":22,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+"note impact 1 default 0002":
+{
+	"frame": {"x":402,"y":0,"w":252,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+"note impact 1 default 0003":
+{
+	"frame": {"x":654,"y":0,"w":260,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+"note impact 2 default 0000":
+{
+	"frame": {"x":0,"y":298,"w":169,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":41,"w":274,"h":267},
+	"sourceSize": {"w":274,"h":267}
+},
+"note impact 2 default 0001":
+{
+	"frame": {"x":169,"y":298,"w":225,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":19,"w":274,"h":267},
+	"sourceSize": {"w":274,"h":267}
+},
+"note impact 2 default 0002":
+{
+	"frame": {"x":394,"y":298,"w":265,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":274,"h":267},
+	"sourceSize": {"w":274,"h":267}
+},
+"note impact 2 default 0003":
+{
+	"frame": {"x":659,"y":298,"w":224,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":0,"w":274,"h":267},
+	"sourceSize": {"w":274,"h":267}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "splashes_desaturated.png",
+	"format": "RGB8",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
