@@ -83,11 +83,6 @@ class IntroLine
 
 class TitleState extends MusicBeatState
 {
-	Paths.clearStoredMemory();
-	Paths.clearUnusedMemory();
-
-	ModCore.reload();
-
 	public var skippedIntro:Bool = false;
 
 	static var initializedTransitions:Bool = false;
@@ -147,6 +142,11 @@ class TitleState extends MusicBeatState
 	{
 		curWacky = FlxG.random.getObject(parseIntroText());
 		super.create();
+
+		Paths.clearStoredMemory();
+		Paths.clearUnusedMemory();
+
+		ModCore.reload();
 
 		if (!initializedTransitions)
 			initTransitions();
