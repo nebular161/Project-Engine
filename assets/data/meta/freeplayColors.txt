@@ -20,7 +20,4 @@
 0xFFFFB96A,
 
 --> Week 7 <--
-0xFF5E5E5E,
-
---> Test <--
-0xFF00DDFF
+0xFF5E5E5E

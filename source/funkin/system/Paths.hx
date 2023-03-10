@@ -1,10 +1,12 @@
 package funkin.system;
 
+import openfl.Assets;
 import flixel.FlxG;
 import flixel.graphics.FlxGraphic;
 import flixel.graphics.frames.FlxAtlasFrames;
 import openfl.media.Sound;
-import openfl.utils.Assets;
+import openfl.utils.AssetType;
+import openfl.utils.Assets as OpenFlAssets;
 import haxe.Json;
 
 using StringTools;
@@ -20,6 +22,37 @@ class Paths
 		currentLevel = name.toLowerCase();
 	}
 
+	public static function getPath(file:String, type:AssetType, library:Null<String>) {
+		if (library != null)
+			return getLibraryPath(file, library);
+		if (currentLevel != null)
+			{
+				var levelPath:String = '';
+				if(currentLevel != 'assets') {
+					levelPath = getLibraryPathForce(file, currentLevel);
+					if (OpenFlAssets.exists(levelPath, type))
+						return levelPath;
+				}
+	
+				levelPath = getLibraryPathForce(file, "assets");
+				if (OpenFlAssets.exists(levelPath, type))
+					return levelPath;
+			}
+	
+			return getPreloadPath(file);
+		}		
+
+		static public function getLibraryPath(file:String, library = 'assets') {
+			return if (library == 'assets' || library == 'default') getPreloadPath(file); else getLibraryPathForce(file, library);
+		}
+	
+		inline static function getLibraryPathForce(file:String, library:String) {
+			return '$library:assets/$library/$file';
+		}	
+
+		inline static public function getPreloadPath(file:String) {
+			return 'assets/$file';
+		}
 	public static var currentTrackedAssets:Map<String, FlxGraphic> = [];
 	public static var currentTrackedSounds:Map<String, Sound> = [];
 
@@ -110,7 +143,11 @@ class Paths
 	inline static public function font(key:String):String
 		return 'assets/fonts/$key';
 
-	//inline static public function chart(song:String, diff:String):String // unfinished
+	inline static public function cursorImage(key:String, ?library:String)
+		return getPath('$key.png', IMAGE, library);
+
+	inline static public function chart(key:String, isSong=false, ?library:String):String
+		return getPath('${isSong ? "" : "music/songs"}/$key.json', TEXT, library);
 
 	static public function sound(key:String, ?cache:Bool = true):Sound
 		return returnSound('sounds/$key', cache);
@@ -132,6 +169,11 @@ class Paths
 
 	inline static public function getPackerAtlas(key:String, ?cache:Bool = true):FlxAtlasFrames
 		return FlxAtlasFrames.fromSpriteSheetPacker(returnGraphic('images/$key', cache), txt('images/$key'));
+
+	inline static public function file(file:String, type:AssetType = TEXT, ?library:String)
+		return getPath(file, type, library);
+	inline static public function formatToSongPath(path:String)
+		return path.toLowerCase().replace(' ', '-');
 
 	public static function returnGraphic(key:String, ?cache:Bool = true):FlxGraphic
 	{
