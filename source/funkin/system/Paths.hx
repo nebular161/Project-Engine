@@ -134,6 +134,9 @@ class Paths
 	inline static public function xml(key:String):String
 		return 'assets/$key.xml';
 
+	inline static public function json(key:String):String
+		return 'assets/$key.json';
+
 	inline static public function hx(key:String):String
 		return 'assets/$key.hx';
 
@@ -169,6 +172,9 @@ class Paths
 
 	inline static public function getPackerAtlas(key:String, ?cache:Bool = true):FlxAtlasFrames
 		return FlxAtlasFrames.fromSpriteSheetPacker(returnGraphic('images/$key', cache), txt('images/$key'));
+	
+	inline static public function getJSONAtlas(key:String, ?cache:Bool = true):FlxAtlasFrames //this is gonna be used for characters and ui objects that are using .json instead of .xml
+		return FlxAtlasFrames.fromSpriteSheetPacker(returnGraphic('images/$key', cache), json('images/$key'));
 
 	inline static public function file(file:String, type:AssetType = TEXT, ?library:String)
 		return getPath(file, type, library);

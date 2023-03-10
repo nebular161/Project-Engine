@@ -17,6 +17,7 @@ import lime.utils.Assets;
 #if discord_rpc
 import funkin.system.Discord.DiscordClient;
 #end
+import funkin.system.Song.SwagSong;
 
 class PlayState extends MusicBeatState
 {
@@ -37,6 +38,7 @@ class PlayState extends MusicBeatState
 	public var camHUD:FNFCamera;
 	public var camGame:FNFCamera;
 	public var notes:FlxTypedGroup<StrumNote>;
+	public var songAccuracy:Int = 0.00;
 
 	/* Private Variables */
 	private var unspawnNotes:Array<StrumNote>;
