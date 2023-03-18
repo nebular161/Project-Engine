@@ -1,5 +1,7 @@
 package funkin.scenes;
 
+import funkin.scripting.PlayStateScript;
+import funkin.scripting.Script;
 import funkin.game.objects.Character;
 import funkin.game.objects.HealthIcon;
 import flixel.FlxG;
